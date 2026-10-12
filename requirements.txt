@@ -7,3 +7,5 @@ registry: default
 copy:
   - src/**
   - package.json
+
+# 41c25f
